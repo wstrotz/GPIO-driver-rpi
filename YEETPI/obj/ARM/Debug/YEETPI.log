@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '169.254.228.46'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  YEETPI.vcxproj -> C:\Users\wstrotz\Desktop\YEETPI\YEETPI\bin\ARM\Debug\YEETPI.out

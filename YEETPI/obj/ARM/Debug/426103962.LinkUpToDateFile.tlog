@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/YEETPI/bin/ARM/Debug/YEETPI.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/YEETPI/obj/ARM/Debug/main.o /home/pi/projects/YEETPI/obj/ARM/Debug/UNR_GPIO_BCM2711.o
